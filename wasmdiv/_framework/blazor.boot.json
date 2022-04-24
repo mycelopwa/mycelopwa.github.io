@@ -45,7 +45,7 @@
       "System.Runtime.dll": "sha256-rFHuBSaC6O3ZUYCD5nCfVkslfqM3q5CmzJ11cjXc9oY=",
       "System.Text.Encodings.Web.dll": "sha256-lbz4zwrlkLNTB+aU7UyZ+GL9noXaZs9wez0jDK2yEN4=",
       "System.Text.Json.dll": "sha256-4ixbayPvq2uWuIPITDU2MmhGywRgbvEixAdmTTci6fk=",
-      "wasmdiv.dll": "sha256-jFLVzFrYoUgiZlcBuo46UxZ\/8SlZu7loRFiBu+I5nHk="
+      "wasmdiv.dll": "sha256-AxiWfufLm5Id0Xf1IYbvGP2AStk3piIQglK8BNKmMiA="
     },
     "extensions": null,
     "lazyAssembly": null,
