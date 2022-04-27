@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-COkQaUJn4TFLKHBIr5YHCsro+3zjOFUsWPjWmrLuhtU=",
+      "hash": "sha256-DQoIwoKZthH9eQxS5ZFP04hsLECIiixA254V4GDRl50=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -177,7 +177,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-rFHuBSaC6O3ZUYCD5nCfVkslfqM3q5CmzJ11cjXc9oY=",
+      "hash": "sha256-8xJVXpRpr5ljz2U+IZgCWgqA1aCJlfaUkng+ISA+vF4=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -189,7 +189,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-JXfa5yd3ZCvVe1nJnf6BbUUFqLMHFWOfqP+XecIM0mc=",
+      "hash": "sha256-8JwNZN18c56BxSpK0JIkNrrthAhuFNql98cF5Q38KNo=",
+      "url": "_framework\/System.Threading.dll"
+    },
+    {
+      "hash": "sha256-PGEzUmqULFy4upG2q8DovuFYD845U+dtf+yzh1KkxEA=",
       "url": "_framework\/wasmdiv.dll"
     },
     {
@@ -197,7 +201,7 @@
       "url": "wasmdiv.styles.css"
     },
     {
-      "hash": "sha256-lDAEEaul32OkTANWkZgjgs4sFCsMdLsR5NJxrjVcXdo=",
+      "hash": "sha256-HgvyGeEBQmvnIlNdFh1TQkjrubqYLnoybQJuIn7fIKM=",
       "url": "css\/app.css"
     },
     {
@@ -269,5 +273,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "quA\/eiHe"
+  "version": "UP24jfbN"
 };

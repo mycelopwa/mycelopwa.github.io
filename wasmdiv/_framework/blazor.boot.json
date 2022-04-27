@@ -42,10 +42,11 @@
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-6fine+eNQRWYUSSnzjAyiCgrT32PShQ53g+7PMOp9Go=",
       "System.Private.Uri.dll": "sha256-v9jPsL4gmGBOe6Ag7KZ25HJI0sofn1pt4a0K+N8\/IKU=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-KwdHFKy9LFj6xfXZg8Wyi8jq3DQFNrVYYQW2\/YnUW8E=",
-      "System.Runtime.dll": "sha256-rFHuBSaC6O3ZUYCD5nCfVkslfqM3q5CmzJ11cjXc9oY=",
+      "System.Runtime.dll": "sha256-8xJVXpRpr5ljz2U+IZgCWgqA1aCJlfaUkng+ISA+vF4=",
       "System.Text.Encodings.Web.dll": "sha256-lbz4zwrlkLNTB+aU7UyZ+GL9noXaZs9wez0jDK2yEN4=",
       "System.Text.Json.dll": "sha256-4ixbayPvq2uWuIPITDU2MmhGywRgbvEixAdmTTci6fk=",
-      "wasmdiv.dll": "sha256-JXfa5yd3ZCvVe1nJnf6BbUUFqLMHFWOfqP+XecIM0mc="
+      "System.Threading.dll": "sha256-8JwNZN18c56BxSpK0JIkNrrthAhuFNql98cF5Q38KNo=",
+      "wasmdiv.dll": "sha256-PGEzUmqULFy4upG2q8DovuFYD845U+dtf+yzh1KkxEA="
     },
     "extensions": null,
     "lazyAssembly": null,
