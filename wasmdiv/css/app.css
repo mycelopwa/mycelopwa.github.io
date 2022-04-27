@@ -74,7 +74,7 @@ a,
 
 .result-box {
     white-space: pre;
-    font-family: monospace, monospace;
+    font-family: 'Source Code Pro';
     font-variant-numeric: tabular-nums lining-nums;
     font-kerning: none;
 }
