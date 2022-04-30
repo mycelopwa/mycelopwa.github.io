@@ -49,6 +49,10 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-H6X8yRYzPQ28db47v69dpw+lY8Lz7KIlG1hUYa+QUs0=",
+      "url": "css\/source-code-pro\/.git"
+    },
+    {
       "hash": "sha256-tMeu2t6aiYM8FOHsjrW9fp\/+zljq4NW4AOAMpCq9QYs=",
       "url": "css\/source-code-pro\/LICENSE.md"
     },
@@ -505,7 +509,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-iu2T2QNSNMs0fH\/tTLGMeK4A2sig51Xl80sRSWtWf6Q=",
+      "hash": "sha256-TrIHkO8Ii7SRP8VFewCL9veh9jZb8ymyuKk4jcZI6v0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -677,7 +681,7 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-qTK+UcjGQuGfmF37DUrjIaaGssNtglHnm71ep6SKF0M=",
+      "hash": "sha256-aZPLn7bU6zvSsMFdPjlPOydlAhvg3yH47SngspyGeWs=",
       "url": "_framework\/wasmdiv.dll"
     },
     {
@@ -689,5 +693,5 @@
       "url": "_content\/BlazorPro.Spinkit\/spinkit.min.css"
     }
   ],
-  "version": "hCBmK441"
+  "version": "tg9DQGmP"
 };
